@@ -10,7 +10,7 @@ Soy un estudiante apasionado de **Análisis y Desarrollo de Software** con un gr
 - 🎓 Estudiante de [Análisis y Desarrollo de Software] con enfoque en programación orientada a objetos y desarrollo web.
 - 💡 Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades de programación.
 - 🌱 Actualmente estoy aprendiendo y profundizando mis conocimientos en **desarrollo backend** con Java y bases de datos.
-- 🔍 Abierto a oportunidades de **prácticas** o **colaboraciones** en proyectos emocionantes.
+
 
 ## 💻 Habilidades
 
@@ -33,8 +33,8 @@ Soy un estudiante apasionado de **Análisis y Desarrollo de Software** con un gr
 
 ## 📫 Contacto
 
-- **LinkedIn:** (in/javier-valencia-0a5b14327)
-- **Correo Electrónico:** (javiertduque@gmail.com--javier-963@hotmail.com)
+- **LinkedIn:** (www.linkedin.com/in/javier-valencia-duque)
+- **Correo Electrónico:** (javiertduque@gmail.com)
 
 ---
 
